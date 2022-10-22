@@ -1,0 +1,23 @@
+.TXT
+- - - Input_exercise_1.TXT
+- - - Input_exercise_2.TXT
+- - - sa.TXT
+- - - sd.TXT
+- - - v.TXT
+- - - zsss.TXT
+.css
+- - - test_style.css
+.html
+- - - test_index.html
+.js
+- - - test_script.js
+.pptx
+- - - test_homework.pptx
+.py
+- - - Directory_Traversal.py
+- - - Even_Lines.py
+- - - File_Manipulator.py
+- - - Line_Numbers.py
+.txt
+- - - 111.txt
+- - - dsad.txt

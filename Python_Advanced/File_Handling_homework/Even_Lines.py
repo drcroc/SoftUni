@@ -1,5 +1,5 @@
-
 replacement_symbols = ["-", ",", ".", "!", "?"]
+
 with open('./test_files/Input_exercise_1.TXT') as file:
     odd_line = 1
     for line in file:

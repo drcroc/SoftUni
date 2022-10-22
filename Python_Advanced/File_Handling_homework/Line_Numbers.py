@@ -13,6 +13,6 @@ with open('./test_files/Input_exercise_2.TXT') as file:
             f.write(f'Line {line_index}: {line.strip()} ({letters_count})({count_punctuation})\n')
         with open(f"./output.txt", "a") as f:
             f.write(f'Line {line_index}: {line.strip()} ({letters_count})({count_punctuation})\n')
-
+        line_index += 1
 
 
