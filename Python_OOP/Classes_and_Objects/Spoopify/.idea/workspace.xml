@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60c71026-9d11-4558-aa2d-1a87fdfdf91e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guild_System/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guild_System/project/guild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guild_System/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza_Delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/band.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/song.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../To-do_List/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../To-do_List/project/section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../To-do_List/project/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Encapsulation/Football_Team_Generator/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Encapsulation/Football_Team_Generator/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Encapsulation/Football_Team_Generator/project/team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Encapsulation/Wild_Cat_Zoo/.idea/Wild_Cat_Zoo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/01. Shop_Условия.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Cup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Flower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Programmer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Steam_User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project/pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Person/.idea/Person.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Person/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Person/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Person/project/child.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Person/project/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/blade_knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/dark_wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/darkk_night.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/elf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/mus_eelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/soul_master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/bear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/gorilla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/lizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/reptile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/snake.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HMf7xBoRFszG8CxR7hnOcgMm0z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.album">
+    <configuration name="album" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Spoopify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/album.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="band" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Spoopify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/band.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.album" />
+        <item itemvalue="Python.band" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60c71026-9d11-4558-aa2d-1a87fdfdf91e" name="Changes" comment="" />
+      <created>1668099709220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668099709220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

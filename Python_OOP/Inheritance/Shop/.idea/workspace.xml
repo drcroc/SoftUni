@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff1d6fd1-d93e-4b5c-9cba-6d76e76bdc2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Guild_System/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Guild_System/project/guild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Guild_System/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Pizza_Delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/To-do_List/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/To-do_List/project/section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/To-do_List/project/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/01. Shop_Условия.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Cup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Flower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Programmer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Steam_User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project/pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.~lock.01. Person_Условия.docx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/project/child.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/project/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/blade_knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/dark_wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/darkk_night.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/elf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/mus_eelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/soul_master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/bear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/gorilla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/lizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/reptile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/cross_motorcycle.py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/family_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/motorcycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/race_motorcycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/sport_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/vehicle.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HAMam4B0psSlAr01LVKLl68qCg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for Tests.test_decrease_product">
+    <configuration name="drink" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/drink.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/product.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Tests.test_decrease_product" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests.test_decrease_product&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in __init__.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/project/__init__.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for Tests.test_decrease_product" />
+        <item itemvalue="Python tests.Python tests in __init__.py" />
+        <item itemvalue="Python.drink" />
+        <item itemvalue="Python.product" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff1d6fd1-d93e-4b5c-9cba-6d76e76bdc2c" name="Changes" comment="" />
+      <created>1667723500650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667723500650</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

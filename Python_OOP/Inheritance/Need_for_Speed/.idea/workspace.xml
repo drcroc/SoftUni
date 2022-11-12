@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8888eda6-6491-4c64-b600-97b410d5fdb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Guild_System/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Guild_System/project/guild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Guild_System/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Pizza_Delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/To-do_List/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/To-do_List/project/section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/To-do_List/project/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/01. Shop_Условия.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Cup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Flower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Programmer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Steam_User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project/pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.~lock.01. Person_Условия.docx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/project/child.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/project/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/blade_knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/dark_wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/darkk_night.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/elf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/mus_eelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/soul_master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Players_and_Monsters/project/wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/bear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/gorilla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/lizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/reptile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/project/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/cross_motorcycle.py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/family_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/motorcycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/race_motorcycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/sport_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/vehicle.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HAFyEobQZ1edThcXCjOtTxM5h7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8888eda6-6491-4c64-b600-97b410d5fdb2" name="Changes" comment="" />
+      <created>1667720233756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667720233756</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

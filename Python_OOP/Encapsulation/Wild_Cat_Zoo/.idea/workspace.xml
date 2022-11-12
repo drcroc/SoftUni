@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbf8edad-a2fb-458c-95c0-6ca1a5f54c23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Guild_System/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Guild_System/project/guild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Guild_System/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Pizza_Delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/To-do_List/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/To-do_List/project/section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes_and_Objects/To-do_List/project/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/01. Shop_Условия.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Cup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Flower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Programmer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/Steam_User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project/pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../First_Steps_in_OOP/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Person/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Person/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Person/project/child.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Person/project/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/blade_knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/dark_wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/darkk_night.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/elf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/mus_eelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/soul_master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Players_and_Monsters/project/wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/bear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/gorilla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/lizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/reptile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Zoo/project/snake.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HEdqhOOTt4Y5h8cNGWhEjxtE7r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.zoo">
+    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Wild_Cat_Zoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/zoo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Tests.test_zoo_add_animal_no_space" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Wild_Cat_Zoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests.test_zoo_add_animal_no_space&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.zoo" />
+        <item itemvalue="Python tests.Python tests for Tests.test_zoo_add_animal_no_space" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbf8edad-a2fb-458c-95c0-6ca1a5f54c23" name="Changes" comment="" />
+      <created>1667854368772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667854368772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/zoo.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
