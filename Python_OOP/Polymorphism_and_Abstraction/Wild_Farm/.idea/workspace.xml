@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa4d20c7-1950-40a4-a80f-c4a362a28d91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Account/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Groups/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/animals/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/animals/birds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/animals/mammals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID_Homework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID_Homework/.idea/SOLID_Homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID_Homework/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID_Homework/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID_Homework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID_Homework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID_Homework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Document_Management/.idea/Document_Management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Document_Management/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Document_Management/project/category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Document_Management/project/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Document_Management/project/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Document_Management/project/topic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Gym/.idea/Gym.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Gym/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Gym/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Gym/project/equipment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Gym/project/exercise_plan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Gym/project/gym.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Gym/project/subscription.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Gym/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Movie_World/.idea/Movie_World.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Static_and_Class_Methods/Photo_Album/.idea/Photo_Album.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Encapsulation/.~lock.01. Wild Cat Zoo_Условия.docx#" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HnzrPkpKUkGUkvJIFu3ZRK2CD2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests in __init__.py">
+    <configuration name="Python tests for WildFarmTests.test_first_zero (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Wild_Farm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;WildFarmTests.test_first_zero&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for WildFarmTests.test_first_zero" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Wild_Farm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/animals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;WildFarmTests.test_first_zero&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in __init__.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Wild_Farm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/project/__init__.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in __init__.py" />
+        <item itemvalue="Python tests.Python tests for WildFarmTests.test_first_zero (1)" />
+        <item itemvalue="Python tests.Python tests for WildFarmTests.test_first_zero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa4d20c7-1950-40a4-a80f-c4a362a28d91" name="Changes" comment="" />
+      <created>1668935834057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668935834057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
